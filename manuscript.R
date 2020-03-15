@@ -1,5 +1,5 @@
 
-
+##Usage of MetaIntegrator for Effect Size test
 require(MetaIntegrator)
 dataObj = cohortobj$originalData$GSE35571
 dataObj = classFunction(dataObj, column = "disease status:ch1", diseaseTerms = "asthmatic")
@@ -48,6 +48,9 @@ sig = results[results$effectSizeFDR < 0.05,]
 #Writing this file to a csv for later use
 write.csv(sig, "degenes1.csv")
 
+
+#Begin main script
+#differential network creation
 require(igraph)
 require(reshape2)
 require(ggplot2)
