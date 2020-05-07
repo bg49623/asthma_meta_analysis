@@ -31,7 +31,7 @@ Transcription factor data: tfdb.csv (curated from TFDB database)
 
 Differentially Expressed Genes: degenes1.csv (results from MetaIntegrator)
 
-More specific methodologies of these data files are outlined in Methods section of manuscript.
+More specific methodologies and full citations of these data files are outlined in Methods section of manuscript.
 
 # Other
 
