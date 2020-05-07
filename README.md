@@ -8,10 +8,15 @@
 Included files: 
 
 pipeline.R: Main pipeline
+
 pipeline.html: Markdown file of pipeline results (same code as pipeline.R)
+
 figure2.R: script for Figure 2
+
 figure3.R: script for Figure 3
+
 supp1.R: script for Supplemental Figure 1 (boxplots)
+
 supplement.xlsx: combined supplemental gene file (S1, S2, S3, S4)
 
 
