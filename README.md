@@ -5,7 +5,7 @@
 (†) Corresponding author
 
 
-Included files: 
+# Scripts/Deliverables 
 
 pipeline.R: Main pipeline
 
@@ -18,6 +18,10 @@ figure3.R: script for Figure 3
 supp1.R: script for Supplemental Figure 1 (boxplots)
 
 supplement.xlsx: combined supplemental gene file (S1, S2, S3, S4)
+
+# Raw Data Sources
+
+A zip file (data.zip) is included with all the raw data, with the exact names as referenced in the program. To use these datasources, please unzip the file and move the folder's contents into the working directory. 
 
 
 All analysis was performed with R version 3.6.0 on a 64-bit MacBook Pro with 8 GB RAM. 
