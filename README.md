@@ -3,8 +3,11 @@
 Brandon Guo (1), Kari C. Nadeau (1), Sandra Andorf (1,2,3), Abhinav Kaushik (1†)
 
 (1) Sean N Parker Center for Allergy and Asthma Research at Stanford University, Stanford University, Stanford, CA 94305–5101, USA
+
 (2) Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA
+
 (3) Divisions of Biomedical Informatics and Allergy & Immunology, Cincinnati Children’s Hospital Medical Center, Cincinnati, OH, USA 
+
 (†) Corresponding author
 
 
